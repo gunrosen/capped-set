@@ -1,0 +1,23 @@
+{
+  "name": "kunji-assignment",
+  "version": "1.0.0",
+  "description": "cappedset",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunrosen/kunji-assignment.git"
+  },
+  "author": "hungp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunrosen/kunji-assignment/issues"
+  },
+  "homepage": "https://github.com/gunrosen/kunji-assignment#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.18.0"
+  }
+}
