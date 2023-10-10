@@ -9,5 +9,6 @@ npx hardhat help
 npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
-npx hardhat run scripts/CappedSet.deploy.ts
+npx hardhat run scripts/CappedSet.deploy.ts --network <network>
+npx hardhat verify --network <network> <address>
 ```
